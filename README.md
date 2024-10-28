@@ -35,20 +35,27 @@ To get started with Sidebar Dashboard, follow these steps:
    open index.html # For macOS
    start index.html # For Windows
 
-Usage
+##Usage
+
 Once the application is open in your browser, you will see the sidebar on the left. You can click on different sections to navigate through the dashboard features.
-Contributing
+
+##Contributing.
+
 We welcome contributions to Sidebar Dashboard! If you have suggestions or improvements, please follow these steps:
 Fork the repository.
+
 Create a new branch (git checkout -b feature/YourFeature).
 Make your changes and commit them (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
 
 ##Contact
-For any inquiries or feedback, please reach out to:
-Your Name - eyob.bay@example.com
+For any inquiries or feedback,
+
+please reach out to:Eyob Baye - eyob.bay@example.com
+
 GitHub Profile - @eyobbaye
+LinkedIn Profile - linkedin.com/in/eyobbaye
 Thank you for checking out Sidebar Dashboard! We hope you find it useful and enjoyable to work with.
 
 Feel free to adjust any sections or details as necessary to better fit your project!
