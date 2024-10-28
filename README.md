@@ -26,6 +26,29 @@ To get started with Sidebar Dashboard, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/sidebar_dashboard.git
+   git clone https://github.com/eyobbaye/sidebar_dashboard.git
    cd sidebar_dashboard
    ```
+   Open the Application
+   Simply open the index.html file in your web browser:
+   bash
+   open index.html # For macOS
+   start index.html # For Windows
+
+Usage
+Once the application is open in your browser, you will see the sidebar on the left. You can click on different sections to navigate through the dashboard features.
+Contributing
+We welcome contributions to Sidebar Dashboard! If you have suggestions or improvements, please follow these steps:
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Make your changes and commit them (git commit -m 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a Pull Request.
+
+##Contact
+For any inquiries or feedback, please reach out to:
+Your Name - eyob.bay@example.com
+GitHub Profile - @eyobbaye
+Thank you for checking out Sidebar Dashboard! We hope you find it useful and enjoyable to work with.
+
+Feel free to adjust any sections or details as necessary to better fit your project!
