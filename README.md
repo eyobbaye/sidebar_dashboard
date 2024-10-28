@@ -52,10 +52,12 @@ Open a Pull Request.
 ##Contact
 For any inquiries or feedback,
 
-please reach out to:Eyob Baye - eyob.bay@example.com
+please reach out to:Eyob Baye - eyob.bay@gmail.com
 
 GitHub Profile - @eyobbaye
+
 LinkedIn Profile - linkedin.com/in/eyobbaye
+
 Thank you for checking out Sidebar Dashboard! We hope you find it useful and enjoyable to work with.
 
 Feel free to adjust any sections or details as necessary to better fit your project!
