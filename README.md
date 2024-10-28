@@ -56,7 +56,7 @@ please reach out to:Eyob Baye - eyob.bay@gmail.com
 
 GitHub Profile - @eyobbaye
 
-LinkedIn Profile - linkedin.com/in/eyobbaye
+LinkedIn Profile - linkedin.com/in/eyob-baye
 
 Thank you for checking out Sidebar Dashboard! We hope you find it useful and enjoyable to work with.
 
